@@ -18,7 +18,7 @@
 ## 💻 Projeto
 
 O primeiro Bot criado por mim!
-Tem como objetivo, a partir de uma lista de contatos mandar mensagens para os indivíduos, facilirando assim, a vida dos usuários.
+Tem como objetivo, a partir de uma lista de contatos mandar mensagens para os indivíduos, facilitando assim, a vida dos usuários.
 
 ## ✨ Tecnologias
 
